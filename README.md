@@ -1,2 +1,1 @@
-# Articulos
-Artículos sobre programación y algoritmia creados por mi
+# Artículos sobre programación y algoritmia creados por mi
