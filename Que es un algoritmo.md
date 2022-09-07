@@ -1,4 +1,5 @@
 # Qué es un algoritmo
+
 En matemáticas, lógica, ciencias de la computación y disciplinas relacionadas, un algoritmo es un conjunto de instrucciones o reglas definidas y no-ambiguas, ordenadas y finitas que permite, típicamente, solucionar un problema, realizar un cómputo, procesar datos y llevar a cabo otras tareas o actividades. Esta es la definición de algoritmo directamente sacada de la Wikipedia, pero, ¿qué significa todo esto?
 
 En este artículo se procurará hacer entender a cualquier persona qué es un algoritmo informático, tanto si es un graduado en Ingeniería Informática, un estudiante o alguien que no sabe absolutamente nada de algoritmia. La información que se encuentra por internet o libros es confusa y muchas veces demasiado especializada para entender. Para esta explicación me serviré de un símil que todos pueden entender: una receta de cocina.
@@ -17,7 +18,7 @@ La operación más básica es la suma. En ella se toma un mínimo de dos número
 solución = 1 + 2
 ```
 
-Viendo este pequeño código asalta una duda. ¿Por qué asignamos la suma a “solución”? En el desarrollo de software, la mayoría de las veces vamos a querer guardar un valor para poder usarlo más adelante. Para eso definimos la variable “solución”, asignándole el resultado de 1 + 2. Al final de esa ejecución, en “solución” hay guardado un 3.
+Viendo este pequeño código asalta una duda. ¿Por qué asignamos la suma a *solución*? En el desarrollo de software, la mayoría de las veces vamos a querer guardar un valor para poder usarlo más adelante. Para eso definimos la variable *solución*, asignándole el resultado de 1 + 2. Al final de esa ejecución, en *solución* hay guardado un 3.
 
 Si por ejemplo se quieren hacer varias sumas y restas, solo hay que escribir varias sumas una después de otra. Al fin y al cabo se le están dando unos pasos a seguir a la máquina.
 
@@ -27,7 +28,7 @@ solución2 = 7 - 2
 solución3 = solución1 - solución2
 ```
 
-En este caso, el ordenador ha guardado un 13 en “solucion1”, un 5 en “solución2” y, por último, se restan los valores guardados en “solución1” y “solución2”, dando lugar a la resta de 13 - 5, que guarda un 8 en “solución3”.
+En este caso, el ordenador ha guardado un 13 en *solucion1*, un 5 en *solución2* y, por último, se restan los valores guardados en *solución1* y *solución2*, dando lugar a la resta de 13 - 5, que guarda un 8 en *solución3*.
 En cocina se puede ver como una ensalada, comenzando con el lavado de las verduras, para luego trocearlas, mezclarlas en un bol (suma de todo) y por último, aliñar la preparación. 
 
 Para ir finalizando, falta uno de los conceptos más importantes en programación, los bucles. En cocina, un bucle no es más que una acción como batir realizada muchas veces. Al hacer una tortilla, se baten los huevos hasta que se vean bien batidos. En un algoritmo se puede ver como, por ejemplo, sumar 1 a una variable hasta que llegue a 100.
