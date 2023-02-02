@@ -1,5 +1,5 @@
 # Artículos sobre programación y algoritmia
 
-En este repositorio se pueden encontrar artículos divulgativos de programación, algoritmia, Big Data, ciencia de datos y demás en español
+En este repositorio se pueden encontrar artículos divulgativos de programación ⌨️🖥️, algoritmia 🧮️💻️, Big Data 📊️💾️, ciencia de datos 📈️🔍️ y demás en español
 
-Still working on 👀️🧠️💻️
+Still working on... 👀️💡️🧠️💻️
